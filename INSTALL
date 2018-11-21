@@ -1,0 +1,9 @@
+Building OmenCoin
+
+See doc/readme-qt.rst for instructions on building OmenCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OmenCoin.
+
+See doc/build-*.txt for instructions on building omencoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OmenCoin.
